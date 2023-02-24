@@ -1,22 +1,11 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
+  - title: "Data and Methods"
+    url: /datamethods/
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "Results"
+    url: /results/    
 
-  - title: "Teaching"
-    url: /teaching/    
+  - title: "Citations"
+    url: /citations/    
     
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
