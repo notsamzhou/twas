@@ -28,3 +28,6 @@ The Disease of Interest: IBD
 ------
 Inflammatory Bowel Disease (IBD) is a highly heritable disease, which causes a chronic inflammation of tissues in an individual’s digestive tract<sup>9</sup>. This disease affects 3.1 million adults in the United States and adversely impacts their quality of life<sup>10</sup>. Even though GWAS has identified hundreds of variants associated with Inflammatory Bowel Disease (IBD), there are few known associated genes. For our project we decided to leverage TWAS to identify the genes associated with IBD. To this end, we collected gene expression data in the blood because IBD is an immune disease and blood will contain the relevant cell types. We also collected GWAS summary statistics.
 
+---
+
+[Back to top](#top)
