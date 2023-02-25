@@ -8,7 +8,7 @@ author_profile: false
 
 Samuel Zhou, Jacqueline Lee, Esha Desai, Moksha Poladi
 
-The work displayed in this webiste was conducted under the supervision of Tiffany Amariuta-Bartell
+The work displayed in this webiste was conducted under the supervision of Tiffany Amariuta-Bartell.
 
 The code for this project can be located [here](https://github.com/jacquelinekclee/twas-dsc180-a17). Our full report can be located here.
 
