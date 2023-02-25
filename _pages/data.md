@@ -1,5 +1,4 @@
 ---
-layout: archive
 title: "Data and Methods"
 permalink: /datamethods/
 author_profile: false
