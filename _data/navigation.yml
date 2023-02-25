@@ -1,4 +1,4 @@
-# main links links
+r# main links links
 main:
   - title: "Data and Methods"
     url: /datamethods/
@@ -6,6 +6,6 @@ main:
   - title: "Results"
     url: /results/    
 
-  - title: "Citations"
-    url: /citations/    
+  - title: "References"
+    url: /references/    
     
