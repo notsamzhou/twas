@@ -11,3 +11,5 @@ The genotype data comes from the 1000 Genomes Project and contains information o
 
 Methods
 ------
+
+As seen above, first the genotype data is extracted with Plink. Then this extracted data, the gene expression data, and the population data are fed into the TWAS/FUSION software to calculate model weights for each gene, where heritability of each feature is estimated. The models used are the linear model that regresses SNPs on gene expression, Lasso Regularization, and ElasticNet, as seen below:
