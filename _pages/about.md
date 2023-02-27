@@ -5,7 +5,7 @@ author_profile: false
 
 ---
 
-Samuel Zhou, Jacqueline Lee, Esha Desai, Moksha Poladi
+Esha Desai, Jacqueline Lee, Moksha Poladi, Samuel Zhou
 
 The work displayed in this webiste was conducted under the supervision of Tiffany Amariuta-Bartell.
 
