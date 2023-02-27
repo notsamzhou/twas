@@ -1,5 +1,8 @@
 # main links links
 main:
+  - title: "Background"
+    url: /background/
+
   - title: "Data and Methods"
     url: /datamethods/
 
