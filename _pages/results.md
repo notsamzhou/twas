@@ -7,16 +7,13 @@ author_profile: false
 Out of 633 genes on chromosome 22, TWAS found 100 genes that are highly heritable with IBD, 7 of which had a significant association with IBD. The locations of the 100 heritable genes along with their $-log_{10}$ p-values are shown below in Figure 1.
 
 
-
-
-
 <p align="center">
 <img src="../images/manhattan.png" width="600" alt="">
   
   <center>Figure 1</center>
 </p>
 
-Of the 7 genes, 5 of them were very close together and shared the same best GWAS SNP, which might suggest that they contribute to the same signal. This highlights TWAS’s ability to identify the actual genes associated with a particular disease, rather than just the GWAS SNPs. Gene PDGFB had the most significant association with a p-value of 4.17 x 10<sup>−17</sup>
+Of the 7 genes, 5 of them were very close together on chromosome 22 and shared the same best GWAS SNP, which might suggest that they contribute to the same signal. This highlights TWAS’s ability to identify the actual genes associated with a particular disease, rather than just the GWAS SNPs. Gene PDGFB had the most significant association with a p-value of 4.17 x 10<sup>−17</sup>
 
 
 For each gene, we were able to identify which modeling technique performed the best. Figure 2 depicts this distribution.
