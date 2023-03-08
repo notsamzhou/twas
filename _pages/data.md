@@ -24,11 +24,11 @@ $$y_i = \sum_j X_{ij} \beta_{j}$$
 
 where $y_i$ represents the gene expression for an individual i, $X_{ij}$ represents the estimated minor allele count of SNP $j$ for the individual $i$, and $\beta_j$ is an unknown weight on cis-SNP $j$. To estimate the set of $\hat{\beta_j}$ for each gene, we used three different modeling techniques - lasso regression, elastic net regression, and only using the single-best eQTL. Both lasso regression and elastic net are regularization techniques that aim to reduce overfitting of our linear regression model. Lasso regularization aims to do so by minimizing the following, using an L1 penalty:
 
-$$||y_i - \sum_j X_{ij}	\hat{\beta_j}||^2 + \lambda ||\hat{\beta_j}||$$
+$$||y - \sum_j X_{j}	\hat{\beta_j}||^2 + \lambda ||\hat{\beta_j}||$$
 			
 Elastic net regression minimizes the following error, using both L1 and L2 penalties:
 
-$$||y_i - \sum_j X_{ij}	\hat{\beta_j}||^2 +  \lambda_1 ||\hat{\beta_j}|| + \lambda_2 ||\hat{\beta_j}||^2$$
+$$||y - \sum_j X_{j}	\hat{\beta_j}||^2 +  \lambda_1 ||\hat{\beta_j}|| + \lambda_2 ||\hat{\beta_j}||^2$$
 
 These two methods incorporate information from all of the cis-SNPs of a gene. With the single-best eQTL method, the estimated minor allele count for only the most significantly associated SNP was used to model a gene’s expression. For this method, the rest of the SNP weights are set to zero.
 
