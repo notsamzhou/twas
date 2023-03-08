@@ -38,4 +38,6 @@ $$\frac{\hat{\beta}^TZ}{  \hat{\beta}\Sigma \hat{\beta}}$$
 
 We then compute imputed Z-scores for every gene with relation to IBD using each of the different regression methods and identify the best-performing model for each gene. We can then use these standardized Z-scores to calculate p-values and identify significant associations between genes and the presence of IBD. This methodology is particularly useful as it allows us to impute gene expression into the GWAS summary-based data and exploit the GWAS data’s large sample size to draw significant associations.
 
+---
 
+[Back to top](#top)

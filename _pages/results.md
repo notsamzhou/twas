@@ -38,3 +38,6 @@ In addition, we found that the R2 for each gene was reasonably bounded by herita
 In conclusion, TWAS was ultimately able to identify 7 genes that are associated with IBD
 One of the genes, A4GALT, did not have any genome-wide significant GWAS SNPs nearby. This highlights that TWAS is able to find relevant genes even if that locus is not genome-wide significant in GWAS. It was also interesting to see that our findings could be verified by other sources. For example, Marigorta et. al (2017) showed that there was an association between SYNGR1 and IBD, which our analysis was also able to identify. Thus, the use of a technique like TWAS for the identification of these genes can be crucial for disease prevention and early detection.
 
+---
+
+[Back to top](#top)
