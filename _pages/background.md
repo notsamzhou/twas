@@ -6,7 +6,7 @@ author_profile: false
 
 
 <p align="center">
-<img src="../images/schematic3.png" width="600" alt="">
+<img src="../images/schematic.png" width="600" alt="">
 </p>
 
 
