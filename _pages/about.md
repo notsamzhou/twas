@@ -9,7 +9,7 @@ Esha Desai, Jacqueline Lee, Moksha Poladi, Samuel Zhou
 
 The work displayed in this webiste was conducted under the supervision of Tiffany Amariuta-Bartell.
 
-The code for this project can be located [here](https://github.com/jacquelinekclee/twas-dsc180-a17). Our full report can be located [here](https://notsamzhou.github.io/twas/files/ibd_twas_report.pdf).
+The code for this project can be located [here](https://github.com/jacquelinekclee/twas-dsc180-a17). Our full report can be located [here](https://notsamzhou.github.io/twas/files/report.pdf).
 
 Introduction
 ======
