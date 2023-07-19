@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Application of Transcriptome-Wide Association Studies to Identifying Genes Associated with Inflammatory Bowel Disease"
+title: "Application of Transcriptome-Wide Association Studies for Identifying Genes Associated with Inflammatory Bowel Disease"
 author_profile: false
 
 ---
